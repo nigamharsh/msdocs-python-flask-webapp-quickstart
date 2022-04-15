@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'introstat'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F1C726EA4CCA4BBE8F60803854873FAA }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B2B587573630474FAF56D08EBCBD8825 }}
